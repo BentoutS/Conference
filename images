@@ -1,0 +1,5 @@
+mkdir images
+logo_uni.png logo_ministry images/  # Moves all images into the folder
+git add images/
+git commit -m "Add images folder"
+git push
