@@ -1,0 +1,4 @@
+touch .nojekyll          # Creates the file
+git add .nojekyll        # Tells Git to track it
+git commit -m "Add .nojekyll to fix 404"
+git push
